@@ -10,7 +10,7 @@ I'll create a simple version of the Library Management System with basic functio
 #### 7) Borrow a book
 #### 8) Return a book
 
-##APIs to run on postman
+## APIs to run on postman
 #### 1) Create a new User
      URL : http://localhost:8080/api/user/createUser
      Body: {
